@@ -1,3 +1,4 @@
+// Use Solidity ^0.6.0 on Remix
 pragma solidity ^0.5.0;
 
 contract TodoList {
